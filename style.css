@@ -1,7 +1,7 @@
 .navbar ul {
     list-style-type: none;
     margin: 5s;
-    padding: 10;
+    padding: 5;
     overflow: hidden;
   }
   
@@ -16,5 +16,5 @@
   }
   
   .navbar {
-    border: 5px solid rgb(82, 74, 94);
+    border: 5px solid rgb(90, 52, 70);
   }
