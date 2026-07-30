@@ -3,18 +3,25 @@
     margin: 5s;
     padding: 5;
     overflow: hidden;
-  }
-  
-  .navbar li {
+
+}
+.navbar {
+    height: 50px;
+    width: 100%;
+    background-color: rgb(245, 243, 165);
+}
+
+.navbar li {
     float: left;
-  }
+}
   
-  .navbar li a {
+.navbar li a {
     display: block;
     text-align: center;
-    padding: 14px 16px;
-  }
+    padding: 12px 200px;
+}
   
-  .navbar {
-    border: 5px solid rgb(90, 52, 70);
-  }
+.navbar {
+    border: 5px solid rgba(19, 7, 9, 0.966);
+}
+ 
