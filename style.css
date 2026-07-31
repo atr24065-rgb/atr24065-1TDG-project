@@ -8,7 +8,7 @@
 .navbar {
     height: 50px;
     width: 100%;
-    background-color: rgb(245, 243, 165);
+    background-color: rgb(143, 74, 91);
 }
 
 .navbar li {
@@ -24,4 +24,6 @@
 .navbar {
     border: 5px solid rgba(19, 7, 9, 0.966);
 }
- 
+img {
+    width: 30%;
+}
