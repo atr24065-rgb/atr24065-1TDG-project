@@ -40,3 +40,10 @@ div{
 .item img {
    width: 90%;
 }
+.headings{ 
+     display: flex;
+    flex-direction: row;
+}
+.text{
+    padding:7%
+}
