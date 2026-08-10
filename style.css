@@ -71,3 +71,38 @@ div {
     width: 70%;
 
 }
+
+        .big-container {
+            display: flex;
+            flex-direction: row;
+        }
+
+        .awards-container {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .awards-row {
+            display: flex;
+            flex-direction: row;
+        }
+
+
+        .awards-row img {
+            width: 50%;
+        }
+
+        .join img {
+            width: 95%;
+        }
+
+.awards-row{
+    padding-top: 10%;
+}
+h1{
+    text-align: center;
+}
+.logo{
+     width:25%;
+     display: flex;
+}
