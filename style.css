@@ -138,6 +138,7 @@ h1 {
 .awards-row2 {
     display: flex;
     flex-direction: row;
+    padding-top: 10%;
 }
 
 
@@ -164,7 +165,7 @@ h1 {
 .awards-row2 img {
 
     width: 50%;
-    padding-top: 10%;
+    
 }
 
 .join img {
