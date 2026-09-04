@@ -231,3 +231,12 @@ p{
     padding-left: 10%;
 }
 
+
+ul li a:hover {
+  background-color: #7a2b2b;
+}
+
+.heading2{
+    width: 190%;
+    padding: auto;
+}
